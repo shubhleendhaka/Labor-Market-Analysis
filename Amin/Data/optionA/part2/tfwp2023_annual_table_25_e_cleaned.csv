@@ -1,0 +1,94 @@
+,Province/Territories,Location,2016-Positive,2016-Negative,2017-Positive,2017-Negative,2018-Positive,2018-Negative,2019-Positive,2019-Negative,2020-Positive,2020-Negative,2021-Positive,2021-Negative,2022-Positive,2022Negative,2023-Positive,2023-Negative
+0,Newfoundland and Labrador,1010-Avalon Peninsula,2,0.0,2,0.0,3,0.0,3,0.0,5,0.0,3,0.0,2,0.0,4,0.0
+1,Newfoundland and Labrador,1030-West Coast--Northern Peninsula--Labrador,0,0.0,0,0.0,1,0.0,1,0.0,0,0.0,0,0.0,0,0.0,0,0.0
+2,Newfoundland and Labrador,1040-Notre Dame--Central Bonavista Bay,0,0.0,0,0.0,0,0.0,6,0.0,4,0.0,5,0.0,5,0.0,5,0.0
+3,Newfoundland and Labrador,Total,2,0.0,2,0.0,4,0.0,10,0.0,9,0.0,8,0.0,7,0.0,9,0.0
+4,Prince Edward Island,1110-Prince Edward Island,33,2.0,42,0.0,44,0.0,48,0.0,60,0.0,50,0.0,75,0.0,72,0.0
+5,Prince Edward Island,Total,33,2.0,42,0.0,44,0.0,48,0.0,60,0.0,50,0.0,75,0.0,72,0.0
+6,Nova Scotia,1220-North Shore,12,2.0,14,0.0,22,1.0,23,0.0,21,0.0,23,0.0,30,0.0,27,0.0
+7,Nova Scotia,1230-Annapolis Valley,116,0.0,115,3.0,138,1.0,112,0.0,133,0.0,138,0.0,167,0.0,163,0.0
+8,Nova Scotia,1240-Southern,16,2.0,17,0.0,13,1.0,23,0.0,27,0.0,19,0.0,22,0.0,28,0.0
+9,Nova Scotia,1250-Halifax,2,0.0,2,0.0,1,0.0,2,0.0,4,0.0,0,0.0,1,0.0,3,0.0
+10,Nova Scotia,1299-Unspecified,0,0.0,0,0.0,0,0.0,1,0.0,0,0.0,0,0.0,2,0.0,0,0.0
+11,Nova Scotia,Total,146,4.0,148,3.0,174,3.0,161,0.0,185,0.0,180,0.0,222,0.0,221,0.0
+12,New Brunswick,1310-Campbellton--Miramichi,2,0.0,2,0.0,1,0.0,2,0.0,2,0.0,1,0.0,2,0.0,5,0.0
+13,New Brunswick,1320-Moncton--Richibucto,11,0.0,12,0.0,14,0.0,17,0.0,14,0.0,13,0.0,18,0.0,19,0.0
+14,New Brunswick,1330-Saint John--St. Stephen,7,0.0,6,0.0,5,0.0,7,0.0,8,0.0,5,0.0,8,0.0,16,0.0
+15,New Brunswick,1340-Fredericton--Oromocto,2,0.0,2,0.0,4,0.0,5,0.0,3,0.0,10,0.0,9,0.0,7,0.0
+16,New Brunswick,1350-Edmundston--Woodstock,4,1.0,4,0.0,4,0.0,8,0.0,9,0.0,15,0.0,12,0.0,15,0.0
+17,New Brunswick,1399-Unspecified,0,0.0,1,0.0,0,0.0,0,0.0,0,0.0,0,0.0,1,0.0,2,0.0
+18,New Brunswick,Total,26,1.0,27,0.0,28,0.0,39,0.0,36,0.0,44,0.0,50,0.0,64,0.0
+19,Quebec,2410-Gasp�sie -- �les-de-la-Madeleine,7,0.0,3,0.0,7,0.0,6,0.0,4,0.0,7,0.0,11,0.0,5,0.0
+20,Quebec,2415-Bas-Saint-Laurent,20,0.0,18,0.0,17,0.0,30,0.0,17,0.0,22,0.0,39,0.0,32,0.0
+21,Quebec,2420-Capitale-Nationale,83,1.0,81,0.0,72,1.0,84,0.0,81,0.0,81,0.0,86,0.0,87,0.0
+22,Quebec,2425-Chaudi�re-Appalaches,121,0.0,67,0.0,86,0.0,106,0.0,74,1.0,109,0.0,109,0.0,86,0.0
+23,Quebec,2430-Estrie,44,2.0,53,0.0,44,0.0,45,0.0,45,1.0,37,0.0,53,0.0,62,0.0
+24,Quebec,2433-Centre-du-Qu�bec,101,1.0,79,0.0,98,0.0,106,0.0,76,0.0,71,1.0,109,0.0,100,0.0
+25,Quebec,2435-Mont�r�gie,784,3.0,501,0.0,437,1.0,562,0.0,400,2.0,449,0.0,529,0.0,465,0.0
+26,Quebec,2440-Montr�al,5,0.0,3,0.0,3,0.0,5,0.0,3,0.0,3,0.0,3,0.0,7,0.0
+27,Quebec,2445-Laval,50,1.0,37,0.0,37,0.0,34,0.0,30,0.0,34,0.0,41,0.0,30,0.0
+28,Quebec,2450-Lanaudi�re,308,0.0,192,0.0,185,0.0,215,0.0,165,1.0,197,0.0,223,0.0,197,0.0
+29,Quebec,2455-Laurentides,211,2.0,148,0.0,149,0.0,167,1.0,126,2.0,154,0.0,189,0.0,159,0.0
+30,Quebec,2460-Outaouais,12,0.0,12,0.0,11,0.0,16,2.0,8,0.0,10,0.0,9,0.0,9,0.0
+31,Quebec,2465-Abitibi-T�miscamingue,7,0.0,3,0.0,12,0.0,19,0.0,15,0.0,12,0.0,12,0.0,17,0.0
+32,Quebec,2470-Mauricie,45,0.0,50,0.0,23,0.0,65,0.0,39,0.0,60,0.0,66,0.0,61,0.0
+33,Quebec,2475-Saguenay--Lac-Saint-Jean,22,0.0,14,0.0,21,0.0,33,0.0,22,0.0,27,0.0,33,0.0,45,0.0
+34,Quebec,2480-C�te-Nord,1,0.0,4,0.0,3,1.0,1,0.0,2,0.0,3,0.0,7,0.0,9,0.0
+35,Quebec,2490-Nord-du-Qu�bec,1,0.0,0,0.0,0,0.0,0,0.0,0,0.0,0,0.0,0,0.0,1,0.0
+36,Quebec,2499-Unspecified,9,0.0,7,0.0,6,0.0,20,0.0,8,0.0,14,0.0,22,0.0,25,0.0
+37,Quebec,Total,"1,831",10.0,"1,272",0.0,"1,211",3.0,"1,514",3.0,"1,115",7.0,"1,290",1.0,"1,541",0.0,"1,397",0.0
+38,Ontario,3510-Ottawa,47,2.0,55,0.0,49,0.0,37,0.0,48,0.0,50,1.0,57,0.0,51,0.0
+39,Ontario,3515-Kingston--Pembroke,30,0.0,43,1.0,43,1.0,42,2.0,43,0.0,46,0.0,51,0.0,46,0.0
+40,Ontario,3520-Muskoka--Kawarthas,32,2.0,37,1.0,46,1.0,42,0.0,45,0.0,40,0.0,59,0.0,58,0.0
+41,Ontario,3530-Toronto,166,2.0,188,2.0,185,2.0,179,1.0,151,1.0,164,0.0,197,0.0,194,0.0
+42,Ontario,3540-Kitchener--Waterloo--Barrie,145,4.0,194,4.0,179,2.0,168,1.0,141,0.0,141,0.0,153,0.0,169,0.0
+43,Ontario,3550-Hamilton--Niagara Peninsula,866,14.0,"1,073",17.0,"1,028",3.0,937,3.0,825,1.0,847,1.0,960,1.0,930,1.0
+44,Ontario,3560-London,227,2.0,226,3.0,242,1.0,229,1.0,213,0.0,192,0.0,253,0.0,236,0.0
+45,Ontario,3570-Windsor--Sarnia,638,12.0,585,12.0,580,0.0,492,2.0,465,0.0,476,0.0,496,0.0,427,0.0
+46,Ontario,3580-Stratford--Bruce Peninsula,85,0.0,107,2.0,107,0.0,98,0.0,93,0.0,78,0.0,95,0.0,91,0.0
+47,Ontario,3590-Northeast,19,0.0,26,1.0,26,0.0,25,0.0,25,0.0,20,0.0,27,0.0,28,0.0
+48,Ontario,3595-Northwest,0,0.0,0,0.0,2,0.0,2,0.0,1,0.0,1,0.0,5,0.0,4,0.0
+49,Ontario,3599-Unspecified,6,0.0,5,0.0,10,0.0,8,0.0,3,0.0,5,0.0,3,0.0,4,0.0
+50,Ontario,Total,"2,261",38.0,"2,539",43.0,"2,497",10.0,"2,259",10.0,"2,053",2.0,"2,060",2.0,"2,356",1.0,"2,238",1.0
+51,Manitoba,4610-Southeast,4,0.0,3,0.0,2,0.0,6,2.0,5,0.0,4,0.0,8,0.0,2,0.0
+52,Manitoba,4620-South Central,15,1.0,7,4.0,13,0.0,10,0.0,12,1.0,13,0.0,12,0.0,21,0.0
+53,Manitoba,4640-North Central,13,1.0,15,0.0,17,1.0,11,0.0,11,0.0,17,0.0,16,0.0,23,0.0
+54,Manitoba,4660-Interlake,1,0.0,3,0.0,2,0.0,4,0.0,3,0.0,2,0.0,3,0.0,1,0.0
+55,Manitoba,4670-Parklands,3,0.0,2,0.0,2,0.0,1,1.0,2,0.0,1,0.0,1,0.0,0,0.0
+56,Manitoba,4680-North,0,0.0,0,0.0,0,0.0,1,0.0,2,0.0,0,0.0,0,0.0,0,0.0
+57,Manitoba,4699-Unspecified,1,0.0,1,0.0,1,0.0,0,0.0,0,0.0,0,0.0,1,0.0,0,0.0
+58,Manitoba,Total,37,2.0,31,4.0,37,1.0,33,3.0,35,1.0,37,0.0,41,0.0,47,0.0
+59,Saskatchewan,4710-Regina--Moose Mountain,3,0.0,4,0.0,5,1.0,4,0.0,5,0.0,4,0.0,7,0.0,5,0.0
+60,Saskatchewan,4720-Swift Current--Moose Jaw,2,0.0,1,0.0,1,0.0,2,0.0,2,0.0,2,0.0,7,0.0,5,1.0
+61,Saskatchewan,4730-Saskatoon--Biggar,15,0.0,14,1.0,17,0.0,12,0.0,13,0.0,15,1.0,7,0.0,13,0.0
+62,Saskatchewan,4740-Yorkton--Melville,3,1.0,3,0.0,1,0.0,1,0.0,2,0.0,3,0.0,4,0.0,5,0.0
+63,Saskatchewan,4750-Prince Albert,14,4.0,14,0.0,13,0.0,16,0.0,18,0.0,20,0.0,27,0.0,23,0.0
+64,Saskatchewan,4799-Unspecified,0,0.0,0,0.0,1,0.0,0,0.0,0,0.0,0,0.0,0,0.0,0,0.0
+65,Saskatchewan,Total,37,5.0,36,1.0,38,1.0,35,0.0,40,0.0,44,1.0,52,0.0,51,1.0
+66,Alberta,4810-Lethbridge--Medicine Hat,55,6.0,55,5.0,77,5.0,59,1.0,44,0.0,63,3.0,51,0.0,58,0.0
+67,Alberta,4820-Camrose--Drumheller,23,3.0,23,1.0,33,2.0,22,0.0,28,0.0,29,0.0,34,0.0,35,0.0
+68,Alberta,4830-Calgary,21,0.0,18,3.0,33,0.0,24,1.0,22,0.0,17,0.0,28,0.0,21,0.0
+69,Alberta,4840-Banff--Jasper--Rocky Mountain House,6,0.0,9,0.0,18,0.0,9,0.0,7,0.0,7,0.0,9,0.0,6,0.0
+70,Alberta,4850-Red Deer,17,0.0,20,1.0,27,1.0,19,0.0,19,0.0,18,0.0,23,0.0,24,0.0
+71,Alberta,4860-Edmonton,42,7.0,39,6.0,58,2.0,42,0.0,45,1.0,37,0.0,39,0.0,37,0.0
+72,Alberta,4870-Athabasca--Grande Prairie--Peace River,31,5.0,28,5.0,49,3.0,39,0.0,33,0.0,39,0.0,37,0.0,38,0.0
+73,Alberta,4880-Wood Buffalo--Cold Lake,16,0.0,21,1.0,19,2.0,16,1.0,23,0.0,13,2.0,15,0.0,17,0.0
+74,Alberta,4899-Unspecified,2,0.0,0,0.0,2,1.0,1,0.0,1,0.0,2,0.0,0,0.0,3,0.0
+75,Alberta,Total,213,21.0,213,22.0,316,16.0,231,3.0,222,1.0,225,5.0,236,0.0,239,0.0
+76,British Columbia,5910-Vancouver Island and Coast,32,9.0,29,5.0,43,0.0,32,1.0,37,1.0,32,0.0,27,0.0,36,0.0
+77,British Columbia,5920-Lower Mainland--Southwest,308,47.0,288,32.0,414,16.0,259,7.0,335,3.0,266,1.0,309,1.0,371,0.0
+78,British Columbia,5930-Thompson--Okanagan,460,71.0,426,51.0,594,17.0,430,11.0,519,6.0,495,2.0,544,2.0,604,2.0
+79,British Columbia,5940-Kootenay,20,2.0,19,2.0,34,0.0,14,0.0,41,1.0,14,1.0,31,0.0,38,0.0
+80,British Columbia,5950-Cariboo,1,0.0,3,0.0,3,0.0,5,0.0,2,0.0,2,0.0,4,0.0,4,0.0
+81,British Columbia,5970-Nechako,0,0.0,0,0.0,0,0.0,3,0.0,0,0.0,1,0.0,3,0.0,3,0.0
+82,British Columbia,5980-Northeast,0,0.0,0,0.0,0,0.0,0,0.0,0,0.0,0,0.0,1,0.0,0,0.0
+83,British Columbia,5999-Unspecified,1,1.0,3,1.0,4,0.0,1,0.0,1,0.0,0,0.0,2,0.0,1,0.0
+84,British Columbia,Total,822,130.0,768,91.0,"1,092",33.0,744,19.0,935,11.0,810,4.0,921,3.0,"1,057",2.0
+85,Canada,Total,"5,408",213.0,"5,078",164.0,"5,441",67.0,"5,074",38.0,"4,690",22.0,"4,748",13.0,"5,501",4.0,"5,395",4.0
+86,Notes:,Total,"5,408",213.0,"5,078",164.0,"5,441",67.0,"5,074",38.0,"4,690",22.0,"4,748",13.0,"5,501",4.0,"5,395",4.0
+87,1. The source for all information in this report is Employment and Social Development Canada's (ESDC) LMIA System.,Total,"5,408",213.0,"5,078",164.0,"5,441",67.0,"5,074",38.0,"4,690",22.0,"4,748",13.0,"5,501",4.0,"5,395",4.0
+88," 2. As of the publication of 2023 annual data (published in April 2024), all LMIAs in support of 'Permanent Residence (PR) Only' are included in TFWP statistics, unless indicated otherwise. All annual data in this report includes PR Only LMIAs. Dual-intent LMIAs and corresponding positions are included under their respective TFWP stream (e.g., low-wage, high-wage, etc.) This may impact program reporting over time.
+",Total,"5,408",213.0,"5,078",164.0,"5,441",67.0,"5,074",38.0,"4,690",22.0,"4,748",13.0,"5,501",4.0,"5,395",4.0
+89,"3. An economic region is defined by Statistics Canada as a grouping of complete Census Divisions (with one exception in Ontario) created as a standard geographic unit for analysis of regional economic activity. There are 76 economic regions across Canada. In Ontario, there is one exception where the employers� boundary does not respect census division boundaries: The census division of Halton is split between the employers of Hamilton�Niagara Peninsula and the employers of Toronto.",Total,"5,408",213.0,"5,078",164.0,"5,441",67.0,"5,074",38.0,"4,690",22.0,"4,748",13.0,"5,501",4.0,"5,395",4.0
+90,"4. ""Unspecified"" indicates that the location of employment includes more than one distinct economic region within the same province.",Total,"5,408",213.0,"5,078",164.0,"5,441",67.0,"5,074",38.0,"4,690",22.0,"4,748",13.0,"5,501",4.0,"5,395",4.0
+91,5. The numbers appearing in this release may differ slightly from those reported in previous releases of LMIA statistics due to data updates that occur over time.,Total,"5,408",213.0,"5,078",164.0,"5,441",67.0,"5,074",38.0,"4,690",22.0,"4,748",13.0,"5,501",4.0,"5,395",4.0
