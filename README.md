@@ -12,7 +12,16 @@ An analysis of the data on positive and negative assessments by region, occupati
 - [@VioreliaM](https://github.com/VioreliaM)
 - [@shriya-nit](https://github.com/shriya-nit)
 
+## Data Collection and Transformation
+- All Data was collected from the Open Canada Data Portal . Files included both positive and negative LMIA datasets spanning from 2016 to 2023
+- Data Integration: Merged primary LMIA dataset with NOC and regional unemployment rate data to enhance analysis of employment trends and regional labor demand
+- Pandas: For data manipulation and cleaning
+- pgeocode: To convert postal codes to city names. enabling location-based analysis and enhancing the dataset’s geographical insights
+- Standardization: Skipped title rows, trimmed irrelevant rows, and standardized column names across all files.
 
+## Analysis and Insights
+
+![image](https://github.com/user-attachments/assets/06ef39f5-1ac2-4dd7-bf8c-206482c798f6)
 
 ## Acknowledgements
 - This project was done as part of Vancouver DataJam hackathon and I thank the organizers for conducting such an event
