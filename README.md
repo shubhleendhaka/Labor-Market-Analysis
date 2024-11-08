@@ -44,10 +44,7 @@ The Canadian employment services divides the job category into different TEERs (
    A video below of the dashboard shows that Quebec has the highest number of positive LMIA applications followed by Ontario and British Columbia while Ontario leads in negative LMIA applications. Although, the number of positive LMIA applications were not that high in New Brunswick, we can see higher density of positive LMIA in some areas in this Province.
 
 <div align="center">
-    <video width="500" controls>
-        <source src="https://github.com/user-attachments/assets/acfa67df-6e9f-4965-ac1a-5c260c70abe1.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-    </video>
+    https://github.com/user-attachments/assets/acfa67df-6e9f-4965-ac1a-5c260c70abe1.mp4
 </div>
 
 3. Changes to the low wage LMIA stream
