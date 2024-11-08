@@ -35,15 +35,16 @@ The Canadian employment services divides the job category into different TEERs (
 
    Below is a chart indicating that higher education (TEER 1 and TEER 2) lead to more positive LMIA outcomes.
 
-https://github.com/user-attachments/assets/06ef39f5-1ac2-4dd7-bf8c-206482c798f6
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/06ef39f5-1ac2-4dd7-bf8c-206482c798f6" alt="Description" style="width:50%;">
+</div>
+
 
 2. LMIA applications by Provinces
 
    A video below of the dashboard shows that Quebec has the highest number of positive LMIA applications followed by Ontario and British Columbia while Ontario leads in negative LMIA applications. Although, the number of positive LMIA applications were not that high in New Brunswick, we can see higher density of positive LMIA in some areas in this Province.
 
-<div align="center">
     https://github.com/user-attachments/assets/acfa67df-6e9f-4965-ac1a-5c260c70abe1.mp4
-</div>
 
 3. Changes to the low wage LMIA stream
    As of 8 Novemebr 2024, the employment and social development services announced new measures indicating that certain low-wage stream LMIA applications in work locations with an unemployment rate of 6% or higher at the time of LMIA submissionsubmitted as of September 26, 2024, won't be processed. Below you can see a map displaying the regions in Canada with positive LMIA in the low wage stream. Alberta has the highest number of low wage positive LMIA and it's unemployment rate in the month of September 2024 on an average is 8.45%. This indicates that Alberta could be one of the Provinces affected by this measure.
