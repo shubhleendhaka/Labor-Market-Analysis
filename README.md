@@ -35,15 +35,7 @@ The Canadian employment services divides the job category into different TEERs (
 
    Below is a chart indicating that higher education (TEER 1 and TEER 2) lead to more positive LMIA outcomes.
 
-<center>
-   <video controls>
-      <source src=”https://github.com/user-attachments/assets/06ef39f5-1ac2-4dd7-bf8c-206482c798f6.mp4” type=”video/mp4” />
-   </video>
-</center>
-
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/06ef39f5-1ac2-4dd7-bf8c-206482c798f6" alt="Description" style="width:50%;">
-</div>
+https://github.com/user-attachments/assets/06ef39f5-1ac2-4dd7-bf8c-206482c798f6
 
 2. LMIA applications by Provinces
 
