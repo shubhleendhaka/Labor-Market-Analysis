@@ -21,6 +21,11 @@ An analysis of the data on positive and negative assessments by region, occupati
 
 ## Analysis and Insights
 
+
+
+https://github.com/user-attachments/assets/acfa67df-6e9f-4965-ac1a-5c260c70abe1
+
+
 ![image](https://github.com/user-attachments/assets/06ef39f5-1ac2-4dd7-bf8c-206482c798f6)
 
 ## Acknowledgements
